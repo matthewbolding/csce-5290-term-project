@@ -1,2 +1,6 @@
 .vscode/
 .venv/
+data/
+logs/
+results/
+saved_model/
